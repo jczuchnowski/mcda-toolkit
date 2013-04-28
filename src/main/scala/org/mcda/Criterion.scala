@@ -1,4 +1,4 @@
-package org.decision
+package org.mcda
 
 case class MembershipFunction(x1: Double, x2: Double, x3: Double, x4: Double) {
   

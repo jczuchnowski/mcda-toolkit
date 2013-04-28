@@ -3,4 +3,7 @@
 /project/target
 /.classpath
 /.project
+/.settings
+/.worksheet
+/.cache
 /project/project/target

@@ -1,4 +1,4 @@
-package org.decision
+package org.mcda
 
 import AggFunctions._
 
