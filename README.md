@@ -1,4 +1,4 @@
 scala-decision
 ==============
 
-Multi-criteria decision analysis engine in Scala.
+Multi-criteria decision analysis toolkit in Scala.
